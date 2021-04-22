@@ -32,7 +32,7 @@ img,
 figure,
 video,
 embed{
-    max-width: 100%;
+    max-width: 50%;
 }
 
 header{
@@ -153,6 +153,7 @@ img.revista{
 display: list-item;
 
 }
+
             /*footer*/
 footer{
     width: 100%;
