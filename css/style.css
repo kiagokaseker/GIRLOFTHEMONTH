@@ -143,6 +143,16 @@ h2{
     text-align: center;
 }
 
+.BUY{
+    text-align: center;
+    display: inline-block;
+}
+
+img.revista{
+    width: 40%;
+    height: auto;
+
+}
             /*footer*/
 footer{
     width: 100%;
