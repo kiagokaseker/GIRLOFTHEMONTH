@@ -9,6 +9,8 @@ body{
 
 }
 
+/*header*/
+
 a{ 
     text-decoration: none;
     font-size: 33px;
@@ -46,6 +48,7 @@ header{
     margin-top: 22px;
 }
 
+/*banner vaziozin*/
 
 .container{
     max-width: 1128px;
@@ -64,6 +67,8 @@ div.banner{
     position: relative;
     z-index: -1;
 }
+
+/*menu*/
 
 nav{
     width: 100%;
@@ -138,53 +143,7 @@ h2{
     text-align: center;
 }
 
-.h2about{
-    font-size: 30px;
-    color: #465257;
-    position: relative;
-    padding-left: 45px;
-    padding-top: 55px;
-    padding-right: 25px;
-
-
-}
-
-.ABOUT{
-    background-color: white;
-    opacity: 0.5;
-    width: 90%;
-    height: auto;
-    bottom: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 30px;
-    margin-left: 60px;
-    position: relative;
-    display: inline-flex;
-
-}
-
-.ABOUT2{
-    background-color: white;
-    opacity: 0.5;
-    width: 90%;
-    height: auto;
-    padding-bottom: 10px;
-    padding-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 60px;
-    position: relative;
-
-}
-.pabout{
-    font-size: 22px;
-    color: #525f65;
-    margin-left: 0px;
-    margin-top: 5px;
-    padding-top: 30px;
-    padding-right: 30px;
-}
-
-
+            /*footer*/
 footer{
     width: 100%;
     float: left;
@@ -220,10 +179,59 @@ footer{
     margin: 0px;
 }
 
+/*SOBRE*/
+
+.h2about{
+    font-size: 30px;
+    color: #465257;
+    position: relative;
+    padding-left: 45px;
+    padding-top: 55px;
+    padding-right: 25px;
 
 
-/*gifs*/
+}
 
+.ABOUT{
+    background-color: white;
+    opacity: 0.5;
+    width: 90%;
+    height: auto;
+    bottom: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    position: relative;
+    display: inline-flex;
+
+}
+
+.ABOUT2{
+    background-color: white;
+    opacity: 0.5;
+    width: 90%;
+    height: auto;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    position: relative;
+    display: inline-flex;
+
+}
+.pabout{
+    font-size: 22px;
+    color: #525f65;
+    margin-left: 0px;
+    margin-top: 5px;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+
+
+
+
+/*gifs/new moon*/
 
 div.gif{
    display: inline-grid;
