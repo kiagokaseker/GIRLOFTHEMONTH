@@ -244,8 +244,10 @@ div.gif{
 }
 
 div.moon{
-    width: 300px;
+    width: 450px;
     height: auto;
 }
 
+img{
+    width: 100%;
 }
