@@ -32,7 +32,7 @@ img,
 figure,
 video,
 embed{
-    max-width: 50%;
+    max-width: 100%;
 }
 
 header{
